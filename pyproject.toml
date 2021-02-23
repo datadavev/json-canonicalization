@@ -5,7 +5,7 @@ description = "rfc8785 JSON canonicalization"
 authors = ["Your Name <you@example.com>"]
 license = "Apache 2.0"
 packages = [
-  {include = "org", from="src"}
+  {include = "org", from="python3/src"}
 ]
 
 [tool.poetry.dependencies]
